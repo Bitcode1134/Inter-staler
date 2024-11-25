@@ -6,8 +6,8 @@ const config = {
   },
   users: {
     // You can add multiple users by doing username: 'password'.
-    wisp: 'funi'.
-    gay: 'gay'.
+    wisp: 'funi',
+    gay: 'gay',
   },
 };
 
