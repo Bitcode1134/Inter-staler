@@ -5,9 +5,9 @@ const config = {
     "gointerstellar.app": "",
   },
   users: {
-    // You can add multiple users by doing username: 'password'.
-    wisp: 'funi'.
-    percusion: 'rimshot'.
+    // You can add multiple users by doing username: 'password',
+    wisp: 'funi',
+    percusion: 'rimshot',
   },
 };
 
